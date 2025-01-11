@@ -1,0 +1,1 @@
+This repository demonstrates a common error in JavaScript related to loose comparison with undefined values. The bug.js file contains a function that aims to handle undefined arguments but might still yield unexpected results due to JavaScript's loose typing. The bugSolution.js file offers a solution using strict equality to fix the issue.
